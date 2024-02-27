@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://img.AZERTYTR.com/logo/infomaniak_header.png" alt="cover" />
-</div>
-
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Corentin BARDIN (Alias AZERTYTR)</h1>
 <p align="center">
   <a href="https://bardin.consulting"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+cybersecurity+consultant+!;Creator+of+bcit.fr;"></a>
@@ -14,7 +10,7 @@
 <a href="https://github.com/AZERTYTR" target="blank">
 <img src="https://img.shields.io/github/stars/AZERTYTR?label=%E2%AD%90%20Github&style=for-the-badge" alt="AZERTYTR__" /></a>
 <a href="https://www.youtube.com/c/AZERTYTR" target="blank">
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCRfh_cUHWYCDpQ64lp8l2Sg?logo=youtube&style=for-the-badge"></a>
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZjN8E_dtNlWus5omPSfHeA?logo=youtube&style=for-the-badge"></a>
     </br> </br>
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=AZERTYTR&theme=gitdimmed&column=7&no-frame=true&no-bg=true&rank=-C" alt="AZERTYTR" /></a> 
 </p>  
