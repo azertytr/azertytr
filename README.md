@@ -1,39 +1,39 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://img.papamica.com/logo/infomaniak_header.png" alt="cover" />
+<img width="100%" height = "100%" src="https://img.AZERTYTR.com/logo/infomaniak_header.png" alt="cover" />
 </div>
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Mickael Asseline (Alias PAPAMICA)</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Corentin BARDIN (Alias AZERTYTR)</h1>
 <p align="center">
-  <a href="https://papamica.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+Wiki-Tech.io;"></a>
+  <a href="https://AZERTYTR.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+bcit.fr;"></a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/papamica__" target="blank">
-<img src="https://img.shields.io/twitter/follow/papamica__?logo=x&style=for-the-badge" alt="papamica__" /></a> 
-<a href="https://github.com/PAPAMICA" target="blank">
-<img src="https://img.shields.io/github/followers/PAPAMICA?label=Followers Github&style=for-the-badge" alt="papamica__" /></a>
-<a href="https://github.com/PAPAMICA" target="blank">
-<img src="https://img.shields.io/github/stars/PAPAMICA?label=%E2%AD%90%20Github&style=for-the-badge" alt="papamica__" /></a>
-<a href="https://www.youtube.com/c/PAPAMICA" target="blank">
+<p align="center"> <a href="https://twitter.com/AZERTYTR__" target="blank">
+<img src="https://img.shields.io/twitter/follow/AZERTYTR__?logo=x&style=for-the-badge" alt="AZERTYTR__" /></a> 
+<a href="https://github.com/AZERTYTR" target="blank">
+<img src="https://img.shields.io/github/followers/AZERTYTR?label=Followers Github&style=for-the-badge" alt="AZERTYTR__" /></a>
+<a href="https://github.com/AZERTYTR" target="blank">
+<img src="https://img.shields.io/github/stars/AZERTYTR?label=%E2%AD%90%20Github&style=for-the-badge" alt="AZERTYTR__" /></a>
+<a href="https://www.youtube.com/c/AZERTYTR" target="blank">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCRfh_cUHWYCDpQ64lp8l2Sg?logo=youtube&style=for-the-badge"></a>
     </br> </br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=papamica&theme=gitdimmed&column=7&no-frame=true&no-bg=true&rank=-C" alt="papamica" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=AZERTYTR&theme=gitdimmed&column=7&no-frame=true&no-bg=true&rank=-C" alt="AZERTYTR" /></a> 
 </p>  
 
 
-<img align="right" width="50%" alt="" src="https://img.papamica.com/logo/git_coding_animation.gif" />  
-<h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
+<img align="right" width="50%" alt="" src="https://img.AZERTYTR.com/logo/git_coding_animation.gif" />  
+<h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="AZERTYTR" height="50" width="60" /></h2>
 
-- 🌱 I’m currently learning **OpenStack, K8s and Python**  
+- 🌱 I’m currently learning **NIS2, ISO27701 and ISO9001**  
   
-- 🔭 I’m currently working on [Wiki-Tech](https://wiki-tech.io)  
+- 🔭 I’m currently working on [BCIT Formation](https://bcit.fr)  
   
-- 👨‍💻 All of my projects are available at [papamica.com](https://papamica.com)  
+- 👨‍💻 All of my projects are available at [AZERTYTR.com](https://AZERTYTR.com)  
   
 - 📝 I regularly write articles on [tech2tech.fr](https://tech2tech.fr)  
   
 - 💬 Ask me about **Zabbix, Docker, Grafana, etc..**  
   
-- 📫 How to reach me **mickael@papamica.com**  
+- 📫 How to reach me **Corentin@AZERTYTR.com**  
  
 
  </br></br>
@@ -43,7 +43,7 @@
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30"> </h2>
 
-<a href="https://papamica.com"><img src="https://img.shields.io/badge/@PAPAMICA__-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/PAPAMICA_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/mickael-asseline/"><img src="https://img.shields.io/badge/Mickael_Asseline-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/papamica"><img src="https://img.shields.io/badge/PAPAMICA-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://AZERTYTR.com"><img src="https://img.shields.io/badge/@AZERTYTR__-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/AZERTYTR_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/Corentin-BARDIN/"><img src="https://img.shields.io/badge/Corentin_BARDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/AZERTYTR"><img src="https://img.shields.io/badge/AZERTYTR-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
  </br>
 
@@ -66,7 +66,7 @@
  
   </br>
 
-  <h2> Operating System <img src = "https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60"> </h2>
+  <h2> Operating System <img src = "https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47o85shd30d0qgkajffwr0b06zj4dt9onfr4vnehqk&rid=giphy.gif&ct=s" alt="AZERTYTR" height="50" width="60"> </h2>
 
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
@@ -76,26 +76,23 @@
  
  <br>
 
-<h2> My GitHub Stats <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="PAPAMICA" width="40" height="40"/>  </h2>
+<h2> My GitHub Stats <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="AZERTYTR" width="40" height="40"/>  </h2>
 
 
 <br/>
 <p align="left">
-  <a href="https://papamica.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=papamica&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=papamica&theme=dark&background=0D1117&hide_border=true" />
+  <a href="https://AZERTYTR.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AZERTYTR&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZERTYTR&theme=dark&background=0D1117&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![PAPAMICA Activity Graph](https://activity-graph.herokuapp.com/graph?username=PAPAMICA&custom_title=PAPAMICA's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=A0BDFE)](https://papamica.com)
-
-
 <br>
 
 <h2> Support <img src = "https://media4.giphy.com/media/uUILfnb9SeEZyE4EiI/giphy.gif?cid=6c09b9521uohqugju6fi6i8qrutxl1irton4o1t7nicp395h&rid=giphy.gif&ct=s"  width="5%"> </h2>
-<p><a href="https://www.buymeacoffee.com/PAPAMICA"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAPAMICA" /></a></p><br><br>  
+<p><a href="https://www.buymeacoffee.com/AZERTYTR"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AZERTYTR" /></a></p><br><br>  
 
-<img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FPAPAMICA%2FPAPAMICA.json%3Fcolor%3Dblue&style=for-the-badge" alt="papamica" />
+<img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAZERTYTR%2FAZERTYTR.json%3Fcolor%3Dblue&style=for-the-badge" alt="AZERTYTR" />
 </div>
  
