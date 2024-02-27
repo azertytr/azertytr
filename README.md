@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30">, I'm Corentin BARDIN (Alias AZERTYTR)</h1>
 <p align="center">
-  <a href="https://AZERTYTR.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+IT+engineer+!;Creator+of+bcit.fr;"></a>
+  <a href="https://bardin.consulting"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=A+passionate+cybersecurity+consultant+!;Creator+of+bcit.fr;"></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/AZERTYTR__" target="blank">
@@ -27,13 +27,11 @@
   
 - 🔭 I’m currently working on [BCIT Formation](https://bcit.fr)  
   
-- 👨‍💻 All of my projects are available at [AZERTYTR.com](https://AZERTYTR.com)  
+- 👨‍💻 All of my projects are available at [bardin.consulting](https://bardin.consulting)  
+    
+- 💬 Ask me about **GDPR, ISO27XXX, Cybersecurity, etc..**  
   
-- 📝 I regularly write articles on [tech2tech.fr](https://tech2tech.fr)  
-  
-- 💬 Ask me about **Zabbix, Docker, Grafana, etc..**  
-  
-- 📫 How to reach me **Corentin@AZERTYTR.com**  
+- 📫 How to reach me **corentin@bardin.consulting**  
  
 
  </br></br>
@@ -43,7 +41,7 @@
 <div align="center">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30"> </h2>
 
-<a href="https://AZERTYTR.com"><img src="https://img.shields.io/badge/@AZERTYTR__-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/AZERTYTR_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/Corentin-BARDIN/"><img src="https://img.shields.io/badge/Corentin_BARDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/AZERTYTR"><img src="https://img.shields.io/badge/AZERTYTR-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://bardin.consulting"><img src="https://img.shields.io/badge/@AZERTYTR__-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://discord.gg/yQ4f8YnwSt"><img src="https://img.shields.io/badge/AZERTYTR_0001-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/Corentin-BARDIN/"><img src="https://img.shields.io/badge/Corentin_BARDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/c/AZERTYTR"><img src="https://img.shields.io/badge/AZERTYTR-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
  </br>
 
@@ -81,7 +79,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://AZERTYTR.com/">
+  <a href="https://bardin.consulting/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AZERTYTR&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AZERTYTR&theme=dark&background=0D1117&hide_border=true" />
   </a>
