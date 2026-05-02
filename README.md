@@ -15,7 +15,7 @@
 
 **BCIT Formation** — SASU basée en Charente (Nouvelle-Aquitaine), certifiée Qualiopi.
 
-- 🏢 **Activités** : 40% formation, 25% e-learning, 25% vCISO/RSSI forfait, 10% audit  
+- 🏢 **Activités** : 25% formation live, 25% e-learning, 25% vCISO/RSSI forfait, 25% audit  
 - 🎓 **Partenaires certs** : PECB (Gold Trainer), Treccert, EXIN, Intuitem  
 - ✅ **Auditeur REA AFNOR** ISO 27001 depuis octobre 2024  
 - 👥 **Équipe** : Formateurs spécialisés, administratif, experts techniques
@@ -56,18 +56,13 @@
 ISO 27001 LA/LI • ISO 27033 • ISO 27035 • ISO 22301 LI • ISO 9001 LA • CDPO • DORA LM • NIST • SOC 2 • CCISO • LPIC-1 • CSM
 
 **Auditeur REA AFNOR** — ISO 27001 (depuis octobre 2024)  
-**En cours** : PNPT, quiz QCM audit (CF93b, CF146, CP31/CF33)
 
 </br>
 
 <h2>Projets Actifs <img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e472sy191foql0okctbjdxbwd3wcywx85il2swgzble&rid=giphy.gif&ct=s" alt="projects" width="40" height="40"/> </h2>
 
-- **[bcit.fr](https://bcit.fr)** — Plateforme de formation & services (Odoo 19.1, HTML custom, BCIT Design System)
-- **[ciso.bcit.fr](https://ciso.bcit.fr)** — CISO Assistant (Self-hosted OVH, Docker, Caddy + Let's Encrypt, MCP connector)
-- **Automation vCISO** — n8n + Odoo + CISO Assistant (provisioning, workflows, facture → déploiement)
-- **Formation DQS** — Quiz QCM audit en Markdown, tracking progression, CF templates
-- **LinkedIn B2B** — Contenu cybersécurité, infographies Gamma, engagement communauté
-
+- **[bcit.fr](https://bcit.fr)** — Plateforme de formation & services
+- 
 </br>
 
 <h2>Contact & Ressources</h2>
